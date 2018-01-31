@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://archive.org/download/BBM300.0.25/BBM%20300.0.25.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ed/58/5f/ed585f0c-7996-97af-1d11-5a798a95ba9d/mzl.avrwgqws.png/460x0w.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ed/58/5f/ed585f0c-7996-97af-1d11-5a798a95ba9d/mzl.avrwgqws.png/690x0w.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.blackberry.bbm1</string>
+				<key>bundle-version</key>
+				<string>300.0.25</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>bbm 300.0.25</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
